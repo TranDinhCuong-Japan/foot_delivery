@@ -1,0 +1,112 @@
+{
+  "populars": {
+    "total_size": 5,
+    "type_id": 1,
+    "offset": 0,
+    "products": [
+      {
+        "id": 1,
+        "name": "Phở Hà Nội",
+        "description": "Chẳng ai biết phở Hà Nội có từ bao giờ, chỉ biết món ăn này đã gắn bó cùng bao thế hệ người thủ đô. Từ những năm 1940, phở đã rất nổi tiếng ở thủ đô và được đi vào áng văn nhẹ nhàng, lãng mạn của Thạch Lam với những lời khen đầy tâm đắc: \"Phở là một thứ quà đặc biệt của Hà Nội, không phải chỉ riêng Hà Nội mới có, nhưng chính là vì chỉ ở Hà Nội mới ngon\"; \"nước dùng trong và ngọt, bánh dẻo mà không nát, thịt mỡ gầu giòn chứ không dai, chanh ớt với hành tây đủ cả\"; \"rau thơm tươi, hồ tiêu bắc, giọt chanh cốm gắt, lại điểm thêm một ít cà cuống, thoảng nhẹ như một nghi ngờ\".Một bát phở theo tiêu chuẩn của Thạch Lam có lẽ sẽ hơi khó tìm trong thời buổi này nhưng nhìn chung phở Hà Nội vẫn giữ được vị ngon ngọt khó cưỡng. Hãy thử tưởng tượng trong một ngày trời thu lành lạnh, bạn ngồi trong một quán phở xì xụp từng thìa nước dùng nóng hổi và thưởng thức bánh phở dẻo ngon, mềm mịn thì còn gì vui thú bằng. Từ một món ăn giản dị có thể thưởng thức ở bất cứ đâu, phở Hà Nội đã từng bước ghi dấu ấn trong lòng người yêu ẩm thực. Không chỉ dừng lại trong nước, phở thủ đô còn vươn ra biển lớn khi có mặt ở nhiều quốc gia lớn như Hoa Kỳ, Australia hay Nhật Bản. ",
+        "price": 10,
+        "stars": 5.1,
+        "img": "assets/images/api_food1.jpg",
+        "location": "vietnam",
+        "Created_at": "2022-02-02 06:30",
+        "updated_at": "2022-02-02 06:30",
+        "type_id": 2
+      },
+      {
+        "id": 2,
+        "name": "Bún bò Huế",
+        "description": "Bún bò Huế xưa ra đời từ thời chúa Nguyễn Hoàng (khoảng thế kỷ thứ 16). Tương truyền, xưa có cô Bún xinh đẹp, giỏi giang, thạo nghề làm bún. Tại làng Vân Cù (nay thuộc thị xã Hương Trà, tỉnh Thừa Thiên Huế), cô Bún đã sáng tạo ra cách chế biến một món ăn mới: Lấy thịt bò nấu thành nước dùng cho món bún. Từ đó, món bún bò ra đời, được lưu giữ và phát triển qua nhiều thế hệ. Đến nay, bún bò Huế đã được cải biên với sự có mặt của nhiều nguyên liệu khác như giò heo, tiết lợn, chả cua,... Bún bò Huế có nhiều điểm khác biệt so với món bún bò của những địa phương khác. Món ăn này nổi tiếng đến mức gần như ai đã đi du lịch Huế cũng phải thưởng thức ít nhất một lần.Bún bò Huế có những gì? Một tô bún bò chuẩn vị Huế sẽ gồm sợi bún, thịt bò, tiết heo, chả cua và nước dùng. Nguyên liệu làm bún là bột gạo pha với bột lọc theo tỷ lệ chuẩn để sợi bún có độ dai vừa phải. Thịt bò được chọn là phần bắp chân trước, nạm bò hoặc bắp hoa màu đỏ tươi, mỡ bò màu vàng nhạt. Chả cua màu vàng cam bắt mắt được làm từ gạch và thịt cua xay nhuyễn với vị béo, bùi tự nhiên. “Linh hồn” của món bún bò xứ Huế chính là nước dùng. Nước dùng được ninh từ xương ống bò nên có vị ngọt đậm đà. Ngoài ra, người ta còn thêm vào nước dùng chút mắm ruốc và sả để dậy mùi thơm nồng hấp dẫn.Một tô bún bò Huế ngon, chuẩn vị đất cố đô phải có hương thơm hấp dẫn. Tô bún có sắc cam của dầu điều, sắc nâu của thịt bò, tiết lợn và sắc xanh của hành, mùi, thêm chút giá đỗ thanh mát. Món bún với đủ vị cay, ngọt, bùi đã thực sự làm “xiêu lòng” thực ckhách.",
+        "price": 10,
+        "stars": 4.5,
+        "img": "assets/images/api_food2.jpg",
+        "location": "vietnam",
+        "Created_at": "2022-02-02 06:30",
+        "updated_at": "2022-02-02 06:30",
+        "type_id": 2
+      },
+      {
+        "id": 3,
+        "name": "Sushi",
+        "description": "Sushi là một món ăn Nhật Bản bao gồm cơm trộn giấm kết hợp với các nguyên liệu khác. Từ xưa, người nhật đã biết cách ủ cá, tôm, hải sản vào nắm cơm để giữ được mùi vị thơm ngon. Khi ủ, cơm thường được trộn với một chút giấm cho chua chua ngọt ngọt. Mà cũng chính vì thế mà cá ủ trong cơm được chuyển hóa thành sushi.Thứ cơm trộn giấm đẻ làm sushi được gọi là sumeshi hay sushimeshi, loại giấm để nấu thứ cơm này mà không phải là giấm thông thường mà là giấm có pha chút muối, đường, rượi ngọt Mirin, vì thế gọi là giấm hỗn hợp awasesu.Cơm nấu xong (nấu không chín hoàn toàn nhưu cơm bình thường) được đổ ra một cái chậu gỗ rồi trộn giấm vào. Vừa trộn vừa dùng quạt tay quạt cho hơi nóng thoát bớt ra để giữ hương vị của giấm.Các loại hải sản dùng để làm sushi có thể là cá, tôm, mực, bạch tuộc, bào ngư, … Có nhiều loại sushi, tùy theo cách chế biến của đầu bếp. Sushi thường được chấm với mù tạt (wasabi) hoặc nước tương Nhật Bản rồi thưởng thức.",
+        "price": 10,
+        "stars": 4.5,
+        "img": "assets/images/api_food3.jpg",
+        "location": "japan",
+        "Created_at": "2022-02-02 06:30",
+        "updated_at": "2022-02-02 06:30",
+        "type_id": 2
+      },
+      {
+        "id": 4,
+        "name": "Tempura",
+        "description": "Một trong những phương pháp chế biến món ăn nổi tiếng trong ẩm thực của người Nhật là chiên, các món chiên của họ ngày càng phổ biến và được nhiều người biết đến trên thế giới, trong số ấy nổi bật hơn cả là các món Tempura. Tempura là món chiên ngập dầu giòn mà vẫn mềm mại của người Nhật từ lâu không còn xa lạ ở Việt Nam. Chỉ là con tôm, miếng mực, miếng cá, cọng rau… lăn vào bột rồi đem chiên giòn, nhưng cũng như hầu hết các món ăn khác của xứ sở hoa anh đào, tempura vẫn ẩn chứa trong nó sự khéo léo của một nền ẩm thực tinh tế.\nTempura là một món ẩm thực của Nhật Bản gồm các loại hải sản, rau, củ tẩm bột mì rán ngập trong dầu, gần tương tự như những món tẩm bột chiên. Đây là một món ăn khá phổ biến trong các bữa ăn của người Nhật, từ bữa ăn dạng cơm hộp cho tới các bữa tiệc cao cấp.\nTrên thế giới, tempura cùng với sushi là những món ăn Nhật Bản được biết đến nhiều nhất. Thành phần chính trong nguyên liệu làm tempura là các loại hải sản, phổ biến nhất là tôm, mực, cá,một số loại rau củ như bí ngô, cà,khoai lang, lá tía tô, ớt ngọt, đỗ ván, nấm shitake, hạt tiêu xanh... Tempura được dùng khi uống bia, rượu, ăn với cơm hoặc với mì soba, udon... Thoạt nhìn, Tempura như chiếc bánh tẩm bột chiên giòn của người Việt, song cách chế biến và hương vị món ăn hoàn toàn khác biệt. Tempura hấp dẫn bởi sắc vàng tươi, nóng hổi, mềm béo\nCái làm nên sự khác biệt giữa tempura với các món có tẩm bột rán thông thường chính là bột, dầu, nước chấm và gia vị ăn kèm. Bột để làm tempura là thứ hỗn hợp nhão của bột mì, lòng trứng gà và nước nguội. Dầu để rán là hỗn hợp dầu ăn thông thường với dầu vừng.\nNước chấm hoặc gia vị chấm tùy từng sở thích của mỗi người hay tùy mỗi cửa hàng, có thể là xì dầu (nước tương) (ngày nay có loại xì dầu chuyên dành cho tempura được chế sẵn), muối tinh. Cũng có người Nhật và quán ăn ở Nhật dùng hỗn hợp gia vị có pha wasabi để chấm tempura. Lại có nơi mài củ cải tươi ra trộn vào xì dầu để chấm.\nYêu cầu đầu tiên của tempura là nhìn vào phải biết đó là gì. Dẫu được bọc trong lớp bột chiên giòn nhưng người ăn vẫn phải thấy rõ đó là con tôm ửng hồng, miếng đậu bắp xinh xắn, lá phong đỏ thơ mộng hay cọng rau tần ô xanh mát mắt… Ấy là nhờ lớp bột áo bên ngoài phải đủ độ giòn nhưng cùng lúc phải đủ mỏng để nhìn thấy rõ được nguyên liệu chính bên trong. Bột pha cũng không được sệt quá thì lớp áo khoác lên mình con tôm, miếng cà tím mới có thể nhìn xuyên thấu,món ăn mới quyến rũ,bắt mắt.Ví dụ như với 120 gr bột tempura cần khoảng 200 ml nước, pha chung với 1 quả trứng, khuấy tan. Áo nguyên liệu chính vào hỗn hợp bột rồi chiên trong dầu ở 170 độ C. Một bí quyết được chia sẻ bởi các đầu bếp chuyên nghiệp khiến cho con tôm trong món tempura của Nhật luôn “đứng” thẳng rất đẹp. Ấy là vì các đầu bếp Nhật luôn khứa vài đường ngang từ bụng tôm vào sâu 50% thân mình,sau đó đè con tôm thẳng xuống thớt, dùng 2 ngón tay nắn vào mình tôm. Lúc này, bạn sẽ nghe tiếng các cơ tôm đứt ra lỏng lẻo. Con tôm lúc này đã thẳng ra như ý. Một lưu ý cuối cùng nhớ bẻ đuôi tôm cho xòe ra trước khi cho vào chảo dầu.",
+        "price": 10,
+        "stars": 5.1,
+        "img": "assets/images/api_food4.jpg",
+        "location": "japan",
+        "Created_at": "2022-02-02 06:30",
+        "updated_at": "2022-02-02 06:30",
+        "type_id": 2
+      },
+      {
+        "id": 5,
+        "name": "Cơm cuộn rong biển",
+        "description": "Cơm cuộn rong biển hay còn gọi là kimbap hoặc gimbap là một món ăn truyền thống đặc trưng của đất nước Hàn Quốc. Theo tiếng Hàn: “Kim” có nghĩa là rong biển, “bap” có nghĩa là cơm. Món kimbap là một trong những món ăn gắn liền với đời sống và nền văn hóa ẩm thực của người dân Hàn Quốc bởi tính tiện dụng, ngon miệng và bổ dưỡng.\nNgày nay, bên cạnh kim chi thì món kimbap đã trở nên phổ biến không chỉ ở các nước châu Á mà còn được biết đến ở nhiều nền văn hóa ẩm thực phương Tây. Món ăn này thường thích hợp với các buổi tiệc nhẹ, buffet, picnic hoặc các hộp cơm trưa mang theo.",
+        "price": 10,
+        "stars": 4.5,
+        "img": "assets/images/api_food5.jpg",
+        "location": "japan",
+        "Created_at": "2022-02-02 06:30",
+        "updated_at": "2022-02-02 06:30",
+        "type_id": 2
+      }
+    ]
+  },
+  "recommendeds": {
+    "total_size": 3,
+    "type_id": 1,
+    "offset": 0,
+    "products": [
+      {
+        "id": 6,
+        "name": "Phở cuốn",
+        "description": "Phở một trong các món ăn ngon nhất thế giới, món ăn truyền thống này luôn là niềm tự hào của ẩm thực dân tộc Việt Nam. Lâu nay người thưởng thức đã quá quen với những món như: phở bò, phở gà… Tuy vậy bằng sự sáng tạo, bên cạnh những món phở nước, người Hà Nội đã tạo biến tấu tạo ra những món khác như phở chiên phồng, phở trộn, phở xào… và nổi trội hơn cả vẫn món phở cuốn.\nPhở cuốn là món ăn có nguồn gốc từ phở, xuất hiện đầu tiên ở quán phở ngã tư phố Ngũ Xã, đường Nguyễn Khắc Hiếu, Hà Nội. Quán phở này mở về đêm để phục vụ khách đi xem bóng đá. Vào ngày nọ, có vị khách tới quán để thưởng thức phở đêm thì quán hết nước dùng, chỉ còn ít bánh phở. Và thế chủ quán đã nghĩ ra cách đó là lấy bánh phở tráng mỏng ra, để khô lại sau đó cuộn với thịt, rau thơm và không quên làm thêm bát nước chấm đậm đà hương vị. Người khách sau khi thưởng thức xong, không ngớt lời khen ngợi về sự sáng tạo món ăn đầy thú vị và ấn tượng của chủ quán này. Món phở cuốn đã ra đời.\nKể từ đó, món phở cuốn đã ghi dấu ấn trong lòng người dân Hà Nội và trở thành một nét văn hóa ẩm thực đặc sắc không chỉ người địa phương mà khách du lịch cũng rất yêu thích.",
+        "price": 10,
+        "stars": 5.1,
+        "img": "assets/images/api_food6.jpg",
+        "location": "vietnam",
+        "Created_at": "2022-02-02 06:30",
+        "updated_at": "2022-02-02 06:30",
+        "type_id": 2
+      },
+      {
+        "id": 7,
+        "name": "Bánh cuốn",
+        "description": "Nguồn gốc của bánh cuốn vốn dĩ có từ Trung Quốc nhưng khi du nhập vào Việt Nam thì lại được phổ biến và biến tấu khác nhau phù hợp với từng vùng miền.\nVới bánh cuốn Thanh Trì vốn là tinh hoa của vùng đất Hà Thành, thì người ta thường quen với phần bột bánh được cán mỏng rồi nhấc lên một cách tài tình bằng thanh tre nhỏ, cuộn lại rồi cắt thành khúc vừa ăn. Bánh cuốn Thanh Trì có hai loại có nhân và không có nhân. Nhân bánh thường gồm thịt băm, một chút tôm nõn được giã thật bông, nấm hương và mộc nhĩ thái nhỏ. Bánh cuốn không thể thiếu được một lớp hành khô bên trên và chấm với nước chấm cà cuống tự pha rất tài tình.\nCòn đi sâu hơn vào các vùng như Trung Bộ hay Nam Bộ thì cách chế biến lại khác đi để phù hợp với khẩu vị nơi đây. Có thể thấy một số các tên gọi bánh cuốn nơi đây như bánh cuốn làng kênh, bánh ướt,..để có thể thấy rằng món bánh giản dị này dù đi đâu cũng luôn được người Việt yêu thích và muốn thưởng thức.\nCũng vì bởi Việt Nam nổi tiếng với nền văn minh lúa nước thì lâu đời nên các món ăn chủ yếu được chế biến từ gạo. Cho nên bánh cuốn như một thức quà gắn liền với tuổi thơ mỗi người, sự mềm mại, thanh mát của từng lát bánh mỏng được tráng một cách khéo léo như những người nghệ nhân, không thể thiếu đi hương vị nước chấm được coi như yếu tố quyết định món bánh đã đi sâu vào trong tiềm thức người Việt, như một làn gió mát xua đi những cơn nóng nực ngày hè.",
+        "price": 10,
+        "stars": 5.1,
+        "img": "assets/images/api_food7.jpg",
+        "location": "vietnam",
+        "Created_at": "2022-02-02 06:30",
+        "updated_at": "2022-02-02 06:30",
+        "type_id": 2
+      },
+      {
+        "id": 8,
+        "name": "Bánh trưng",
+        "description": "Bánh chưng là biểu tượng không thể thiếu trong dịp Tết cổ truyền. Từ xa xưa đến nay, mỗi dịp Tết đến xuân về, người người nhà nhà lại chuẩn bị những nồi bánh chưng rất to để đón Tết. Bởi trong tâm thức của mỗi người thì bánh chưng là món ăn mang ý nghĩa sum vầy, đoàn viên bình dị nhưng ấm áp.\nNgười xưa vẫn lưu truyền rằng bánh chưng ngày Tết có từ rất lâu. Mọi người vẫn tin rằng bánh chưng bánh giầy có từ thời vua Hùng thứ 6, và cho đến ngày nay thì nó đã trở thành biểu tượng của Tết truyền thống tại Việt Nam. Người đời vẫn luôn cho rằng bánh chưng minh chứng cho sự tròn đầy của trời đất và sự sum vầy của gia đình sau một năm trời làm việc tất bật, vội vã.\nCho dù là ở miền Bắc, Trung hay Nam thì bánh chưng là món ăn không thể thiếu trong ngày Tết. Có thể nói đây là món ăn được chờ đợi nhiều nhất, vì ngày Tết mới đúng là ngày thưởng thức bánh chưng ngon và ấm áp nhất.\nVề nguyên liệu, bánh chưng được làm từ những thứ rất đơn giản và dễ chuẩn bị; kết hợp với bàn tay khéo léo của người gói bánh. Nguyên liệu chủ yếu là gạo nếp, lá dong, thịt, đậu xanh giã nhỏ. Mỗi nguyên liệu đều được chọn lọc thật kĩ để có thể tạo nên món ăn ngon đậm đà nhất. Về phần gạo nếp thì người ta chọn những hạt tròn lẳn, không bị mốc để khi nấu lên ngửi thấy mùi thơm lừng của nếp. Đậu xanh chọn loại đậu có màu vàng đẹp, nấu nhừ lên và giã nhuyễn làm nhân. Người ta sẽ chọn thịt ba chỉ hoặc thịt nạc, trộn với tiêu xay, hành băm nhuyễn. Một nguyên liệu khác không kém phần quan trọng chính là lá dong để gói bánh. Ở một số vùng khác người ta dùng lá chuối gói bánh nhưng phổ thông nhất vẫn là lá dong.\nLá dong cần có màu xanh đậm, có gân chắc, không bị héo và rách nát. Hoặc nếu những chiếc lá bị rách người ta có thể lót bên trong chiếc lá lành để gói. Khâu rửa lá dong, cắt phần cuống đi cũng rất quan trọng vì lá dong sạch mới đảm bảo vệ sinh cũng như tạo mùi thơm sau khi nấu bánh..\nSau khi đã chuẩn bị tất cả các nguyên vật liệu thì đến khâu gói bánh. Gói bánh chưng cần sự tẩn mẩn, tỉ mỉ và khéo léo để tạo nên chiếc bánh vuông vắn cúng viếng ông bà tổ tiên. Nhiều người cần phải có khuôn vuông để gói nhưng nhiều người thì không cần, chỉ cần gấp bốn góc của chiếc lá dong lại là có thể gói được. Bao bọc xung quanh nhân đậu và thịt là một lớp nếp dày. Chuẩn bị dây để gói, giữ cho phần ruột được chắc, không bị nhão ra trong quá trình nấu bánh.\nCông đoạn nấu bánh được xem là khâu quan trọng. Thông thường mọi người nấu bánh bằng củi khô, nấu trong một nồi to, đổ đầy nước và nấu trong khoảng từ 8-12 tiếng. Thời gian nấu lâu như thế là vì để đảm bảo bánh chín đều và dẻo. Khi nước bánh sôi, mùi bánh chưng bốc lên nghi ngút. Lúc đó mọi người bắt đầu cảm nhận được không khí Tết đang bao trùm lấy căn nhà.\nBánh chưng sau khi chín được mang ra và lăn qua lăn lại để tạo sự săn chắc cho chiếc bánh khi cắt ra đĩa và có thể để được lâu hơn.\nĐối với mâm cơm ngày Tết thì đĩa bánh chưng là điều tuyệt vời không thể thiết. Cũng như trên bàn thờ ngày tết, một cặp bánh chưng cúng tổ tiên là phong tục lưu truyền từ bao đời nay. Bánh chưng tượng trưng cho sự trọn vẹn của trời đất, cho những gì phúc hậu và ấm áp nhất của lòng người.\nTrong ngày Tết có rất nhiều lấy bánh chưng làm quà biếu, và đây chính là món quà ý nghĩa tượng trưng cho lòng thành, cho sự chúc phúc tròn đầy nhất.\nMỗi dịp Tết đến xuân về, bánh chưng bốc lên nghi ngút chính là báo hiệu cho sự ấm áp của gia đình. Bánh chưng là biểu tượng ngày Tết mà không có bất cứ loại bánh nào có thể thay thế được. Vì đây là truyền thống, là nét đẹp của con người Việt Nam, cần gìn giữ và tôn trọng từ quá khứ, hôm nay và cả ngày mai nữa.",
+        "price": 10,
+        "stars": 4.9,
+        "img": "assets/images/api_food8.jpg",
+        "location": "vietnam",
+        "Created_at": "2022-02-02 06:30",
+        "updated_at": "2022-02-02 06:30",
+        "type_id": 2
+      }
+    ]
+  }
+}
